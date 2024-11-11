@@ -1,9 +1,12 @@
 
 **Instructors:** [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/) and [Srikanta Bedathur](https://www.cse.iitd.ac.in/~srikanta/)
 
-**Time:** Tue, Thu & Fri 11:00 am - 11:50 am
 
+**Lectures:** Tue, Thu & Fri 11:00 am - 11:50 am
+**Labs:** Mon, Tues, Thurs, Fri   3:00-5:00 PM 
 **Location:** TBA. 
+
+
 
 **Course Description:** Here is a tentative list of topics that will be covered in the course:
 
@@ -20,9 +23,11 @@
 - Depth first search in directed and undirected graphs and applications
 - Dijkstra's algorithm for shortest path, Minimum Spanning Tree
 
+
+
 **Prerequisites:** COL 100
 
-# Setting up Java
+### Setting up Java
 
 **Java set up:** It is advised that you install JDK 11.0.17. You must ensure that your submission code runs in JDK 11.0.17 environment.
 
