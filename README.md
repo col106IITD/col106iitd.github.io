@@ -1,5 +1,5 @@
 
-**Instructors:** [Nikhil Balaji] (https://sites.google.com/view/nikhilbalaji/) and [Srikanta Bedathur](https://www.cse.iitd.ac.in/~srikanta/)
+**Instructors:** [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/) and [Srikanta Bedathur](https://www.cse.iitd.ac.in/~srikanta/)
 
 **Time:** Tue, Thu & Fri 11:00 am - 11:50 am
 
