@@ -1,6 +1,6 @@
-title: COL 106
-tagline: Data Structures and Algorithms
-description: Jan-Apr 2025
+title: COL 106: Data Structures and Algorithms (Jan-Apr 2025)
+tagline: 
+description: 
 author: Nikhil Balaji and Srikanta Bedathur
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://col106iitd.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
@@ -13,10 +13,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Gradescope:
+    - 'https://www.gradescope.com/'
+  Piazza:
+    - 'https://piazza.com/'
+  Moodle:
+    - 'https://moodle.iitd.ac.in/login/index.php'  
 footer_content:
 
 # Collections for website data
