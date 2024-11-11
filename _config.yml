@@ -1,7 +1,7 @@
 
-title: Data Structures and Algorithms
+title: COL 106: Data Structures and Algorithms
 tagline: 
-description: Jan-Apr 2025
+description: 
 author: Nikhil Balaji and Srikanta Bedathur
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://col106iitd.github.io' # the base hostname & protocol for your site, e.g. http://example.com
@@ -18,6 +18,10 @@ aux_links:
     - 'https://www.gradescope.com'
   Piazza:
     - 'https://piazza.com'
+  Moodle:
+    - 'https://moodle.iitd.ac.in'  
+  Feedback:
+    - 'https://forms.google.com'
 footer_content:
 
 # Collections for website data
