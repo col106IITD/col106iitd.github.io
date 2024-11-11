@@ -2,10 +2,8 @@
 **Instructors:** [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/) and [Srikanta Bedathur](https://www.cse.iitd.ac.in/~srikanta/)
 
 
-**Lectures:** Tue, Thu & Fri 11:00 AM - 11:50 AM
-
-**Labs:** Mon, Tues, Thurs, Fri   3:00 - 5:00 PM 
-
+**Lectures:** Tue, Thu & Fri 11:00 am - 11:50 am
+**Labs:** Mon, Tues, Thurs, Fri   3:00-5:00 PM 
 **Location:** TBA. 
 
 
@@ -36,5 +34,4 @@
 Note: You are expected to learn Java (and use object oriented programming) on your own. For this you should refer to the Java module below and the exercises in it (thanks to [Prof. Amitabha Bagchi](https://www.cse.iitd.ac.in/~bagchi/) for making these available).
 
 [Java Module](http://www.cse.iitd.ac.in/~bagchi/courses/supplements/JavaLabModule2018.pdf)
-
 [Supporting Code](http://www.cse.iitd.ac.in/~bagchi/courses/supplements/JavaLabModuleCode2018.zip)
