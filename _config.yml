@@ -17,8 +17,6 @@ aux_links:
     - 'https://www.gradescope.com'
   Piazza:
     - 'https://piazza.com'
-  Moodle:
-    - 'https://moodle.iitd.ac.in/login/index.php'  
 footer_content:
 
 # Collections for website data
