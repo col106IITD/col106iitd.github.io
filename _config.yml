@@ -14,9 +14,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Gradescope:
-    - 'https://www.gradescope.com/'
+    - 'https://www.gradescope.com'
   Piazza:
-    - 'https://piazza.com/'
+    - 'https://piazza.com'
   Moodle:
     - 'https://moodle.iitd.ac.in/login/index.php'  
 footer_content:
