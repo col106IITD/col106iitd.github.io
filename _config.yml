@@ -53,6 +53,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: logistics
+    values:
+      layout: logistics      
 
 compress_html:
   clippings: all
