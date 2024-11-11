@@ -2,9 +2,9 @@
 **Instructors:** [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/) and [Srikanta Bedathur](https://www.cse.iitd.ac.in/~srikanta/)
 
 
-**Lectures:** Tue, Thu & Fri 11:00 am - 11:50 am
+**Lectures:** Tue, Thu & Fri 11:00 AM - 11:50 AM
 
-**Labs:** Mon, Tues, Thurs, Fri   3:00-5:00 PM 
+**Labs:** Mon, Tues, Thurs, Fri   3:00 - 5:00 PM 
 
 **Location:** TBA. 
 
