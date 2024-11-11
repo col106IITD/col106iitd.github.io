@@ -1,1 +1,1 @@
-# col106iitd.github.io
+# COL 106: Data Structures and Algorithms (Jan-Apr 2025)
