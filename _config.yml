@@ -1,6 +1,6 @@
 
-title: COL 106: Data Structures and Algorithms
-tagline: 
+title: Data Structures and Algorithms
+tagline:  
 description: 
 author: Nikhil Balaji and Srikanta Bedathur
 baseurl: '' # the subpath of your site, e.g. /blog
@@ -20,8 +20,6 @@ aux_links:
     - 'https://piazza.com'
   Moodle:
     - 'https://moodle.iitd.ac.in'  
-  Feedback:
-    - 'https://forms.google.com'
 footer_content:
 
 # Collections for website data
