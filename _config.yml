@@ -1,10 +1,11 @@
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+title: COL 106: Data Structures and Algorithms (Jan-Apr 2025)
+tagline: 
+description: 
+author: Nikhil Balaji and Srikanta Bedathur
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://col106iitd.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.0
