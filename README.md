@@ -1,6 +1,3 @@
-# What is this course about?
-
-# Useful Information
 
 **Instructors:** Nikhil Balaji and Srikanta Bedathur
 
