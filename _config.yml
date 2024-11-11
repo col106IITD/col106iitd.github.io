@@ -1,11 +1,10 @@
 title: COL 106: Data Structures and Algorithms (Jan-Apr 2025)
-tagline: 
-description: 
+tagline: A Jekyll template for course websites
+description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Nikhil Balaji and Srikanta Bedathur
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://col106iitd.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.0
@@ -14,10 +13,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Gradescope:
+    - 'https://www.gradescope.com'
+  Piazza:
+    - 'https://piazza.com'
 footer_content:
 
 # Collections for website data
