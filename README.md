@@ -27,7 +27,7 @@
 
 **Prerequisites:** COL 100
 
-### Setting up Java
+## Setting up Java
 
 **Java set up:** It is advised that you install JDK 11.0.17. You must ensure that your submission code runs in JDK 11.0.17 environment.
 
