@@ -1,5 +1,5 @@
 
-title: Data Structures and Algorithms (COL 106)
+title: Data Structures and Algorithms 
 tagline: Jan-Apr 2025 
 description: 
 author: Nikhil Balaji and Srikanta Bedathur
@@ -9,7 +9,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.10.0
-color_scheme: light
+color_scheme: dark
 search_enabled: true
 heading_anchors: true
 permalink: pretty
