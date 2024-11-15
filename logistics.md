@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Announcements
+title: Logistics
 nav_exclude: false
 description: A feed containing all of the class announcements.
 ---
