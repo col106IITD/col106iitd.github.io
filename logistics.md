@@ -14,7 +14,6 @@ description: A feed containing all of the class announcements.
 - Major:  20%
 - Quizzes (best 3 out of 4) :  30%
 - Passing criteria: % in course total
+- Audit-pass criteria: 50% in course total
 
-Audit-pass criteria: 50% in course total
-
-Acadmic Honesty: Cheating or allowing anyone to copy in exams/lab-assignments would lead to strict disciplinary action. Typical penalty would include Fail grade in the course.
+**Acadmic Honesty:** Cheating or allowing anyone to copy in exams/lab-assignments would lead to strict disciplinary action. Typical penalty would include Fail grade in the course.
