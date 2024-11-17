@@ -16,4 +16,4 @@ description: A feed containing all of the class announcements.
 - Passing criteria: % in course total
 - Audit-pass criteria: 50% in course total
 
-**Acadmic Honesty:** Cheating or allowing anyone to copy in exams/lab-assignments would lead to strict disciplinary action. Typical penalty would include Fail grade in the course.
+**Academic Honesty:** Cheating or allowing anyone to copy in exams/lab-assignments would lead to strict disciplinary action. Typical penalty would include Fail grade in the course.
