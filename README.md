@@ -12,6 +12,7 @@
 
 **Course Description:** Here is a tentative list of topics that will be covered in the course:
 
+- Abstract data types
 - Arrays, Stacks, Queues, Linked-lists
 - Dynamic Arrays, Aysmptotic Complexity
 - Sorting: merge, quick, radix, heap
