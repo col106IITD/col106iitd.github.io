@@ -3,10 +3,12 @@
 
 
 **Lectures:** Tue, Thu & Fri   11:00 - 11:50 am
+
 **Labs:** Mon, Tues, Thurs, Fri  3:00 - 5:00 pm 
+
 **Location:** TBA. 
 
-
+**Programming Language:** Java 
 
 **Course Description:** Here is a tentative list of topics that will be covered in the course:
 
