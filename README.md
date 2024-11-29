@@ -19,7 +19,7 @@
 - Dictionaries: Skip-lists, Hashing
 - Trees, Tree Traversal, Binary Search Tree
 - Priority Queues, Binary Heaps
-- AVL tree / Red-Black tree
+- AVL tree ~~/ Red-Black tree~~
 - 2-4 trees, B-trees, Multiway search tree, Kd-trees, and applications
 - Introduction to Graphs, Adjacency matrix and List representation
 - Breadth first search and applications
