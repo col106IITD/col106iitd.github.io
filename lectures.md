@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lectures
+title: Weekly Schedule
 nav_exclude: false
 description: The weekly event schedule.
 ---
