@@ -6,7 +6,7 @@
 
 **Labs:** Mon, Tues, Thurs, Fri  3:00 - 5:00 pm 
 
-**Location:** TBA. 
+**Location:** LH325. 
 
 **Programming Language:** Java 
 
