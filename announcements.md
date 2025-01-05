@@ -9,3 +9,5 @@ description: A feed containing all of the class announcements.
 
 **15 November 2024:** Course webpage is up!
 
+**5 January 2024:** You are assigned a seat in the lecture halls and Lab. The allocation can be found [here](https://docs.google.com/spreadsheets/d/1yD9Cbe8Lr0kuHW5TTdL6Hk8KJlX5oyzfxPXwwvEtTVc/edit?usp=sharing). 
+
