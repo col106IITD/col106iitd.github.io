@@ -1,8 +1,8 @@
 
 title: Data Structures and Algorithms 
-tagline: Jan-Apr 2025 
+tagline: Jan-Apr 2026
 description: 
-author: Nikhil Balaji and Srikanta Bedathur
+author: Vireshwar Kumar and Srikanta Bedathur
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://col106iitd.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -14,12 +14,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Gradescope:
-    - 'https://www.gradescope.com'
-  Piazza:
-    - 'https://piazza.com/iit_delhi/spring2025/col106'
-  Moodle:
-    - 'https://moodlenew.iitd.ac.in'  
+#  Gradescope:
+#    - 'https://www.gradescope.com'
+#  Piazza:
+#    - 'https://piazza.com/iit_delhi/spring2025/col106'
+#  Moodle:
+#    - 'https://moodlenew.iitd.ac.in'  
 footer_content:
 
 # Collections for website data
