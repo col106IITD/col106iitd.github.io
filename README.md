@@ -1,5 +1,5 @@
 
-**Instructors:** [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/) and [Srikanta Bedathur](https://www.cse.iitd.ac.in/~srikanta/)
+**Instructors:** [Vireshwar Kumar](https://www.cse.iitd.ernet.in/~viresh/) and [Srikanta Bedathur](https://www.cse.iitd.ac.in/~srikanta/)
 
 **Credits:** 3-0-4-5
 
@@ -7,11 +7,9 @@
 
 **Labs:** Mon, Tues, Thurs, Fri  2:00 - 5:00 pm 
 
-**Location:** LH325. 
+**Programming Language:** C++
 
-**Programming Language:** Java 
-
-**Course Description:** Here is a tentative list of topics that will be covered in the course:
+**Course Description:** Here is a tentative list of topics that will be covered in the course (**will be updated**):
 
 - Abstract data types
 - Basic Data-structures: Arrays, Stacks, Queues, Linked-lists
@@ -28,13 +26,3 @@
 
 
 **Prerequisites:** COL 100
-
-
-## Setting up Java
-
-**Java set up:** It is advised that you install JDK 11.0.17. You must ensure that your submission code runs in JDK 11.0.17 environment.
-
-**Note:** You are expected to learn Java (and use object oriented programming) on your own. For this you should refer to the Java module below and the exercises in it (thanks to [Prof. Amitabha Bagchi](https://www.cse.iitd.ac.in/~bagchi/) for making these available).
-
-- [Java Module](http://www.cse.iitd.ac.in/~bagchi/courses/supplements/JavaLabModule2018.pdf)
-- [Supporting Code](http://www.cse.iitd.ac.in/~bagchi/courses/supplements/JavaLabModuleCode2018.zip)
