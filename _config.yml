@@ -14,12 +14,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-#  Gradescope:
-#    - 'https://www.gradescope.com'
-#  Piazza:
-#    - 'https://piazza.com/iit_delhi/spring2025/col106'
-#  Moodle:
-#    - 'https://moodlenew.iitd.ac.in'  
+  Gradescope:
+    - 'https://www.gradescope.com'
+  Piazza:
+    - 'https://piazza.com/iitd.ac.in/winter2026/col106/home'
+  Moodle:
+    - 'https://moodlenew.iitd.ac.in'  
 footer_content:
 
 # Collections for website data
