@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Logistics
-nav_exclude: true
+nav_exclude: false
 description: A feed containing all of the class announcements.
 ---
 
@@ -13,8 +13,7 @@ description: A feed containing all of the class announcements.
 - Minor:  15%
 - Major:  20%
 - Quizzes (best 3 out of 4) :  30%
-- Attendance (lectures + labs linearly scaled) : 5%
-- Passing criteria: % in course total
+- Attendance (linearly scaled, awarded only if more than 75% attendance) : 3% (lectures) + 2% (labs) 
 - Audit-pass criteria: B- and above are eligible for a NP grade. You should also score at least 50% in both the written and lab quizzes.
   
     
