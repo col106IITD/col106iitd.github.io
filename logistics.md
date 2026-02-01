@@ -20,10 +20,7 @@ description: A feed containing all of the class announcements.
 **Academic Honesty:** Cheating or allowing anyone to copy in exams/lab-assignments would lead to strict disciplinary action. Typical penalty would include Fail grade in the course.
 
 **Attendance Record:**
-*Lecture*
-<iframe
-        src="https://csciitd-my.sharepoint.com/:x:/g/personal/mcs252094_iitd_ac_in/IQDjPq5Upb2dT67BhGXSAP7vAeh1yWcYsvKpXKMaQKCzJfo?e=0f3uM4&action=embedview"
-        width="100%"
-        height="500"
-        frameborder="0">   
-</iframe>
+
+[*Lecture*](https://csciitd-my.sharepoint.com/:x:/g/personal/mcs252094_iitd_ac_in/IQDjPq5Upb2dT67BhGXSAP7vAeh1yWcYsvKpXKMaQKCzJfo?e=0f3uM4&action=embedview)
+
+[*Lab*]()
