@@ -23,4 +23,4 @@ description: A feed containing all of the class announcements.
 
 [*Lecture*](https://csciitd-my.sharepoint.com/:x:/g/personal/mcs252094_iitd_ac_in/IQDjPq5Upb2dT67BhGXSAP7vAeh1yWcYsvKpXKMaQKCzJfo?e=0f3uM4&action=embedview)
 
-[*Lab*]()
+[*Lab*](https://csciitd-my.sharepoint.com/:x:/g/personal/mcs252094_iitd_ac_in/IQAmsVLZ6tztRLpzLmMybgJyAZCv7f3Rzpqd1-2XoWsZOFA?e=dtC7lu)
